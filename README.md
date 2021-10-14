@@ -10,7 +10,7 @@ Um pequeno painel com consultas de:
 - [x] PLACA
 - [x] CNPJ
 
-- OBS: caso execute o script pelo termux, recomendo que use o da [F-Droid](F-Droid.org) por ser mais atualizado, evitando erros indesejáveis...
+- OBS: caso execute o script pelo termux, recomendo que use o da [F-Droid](https://F-Droid.org) por ser mais atualizado, evitando erros indesejáveis...
 
 ## INÍCIO 💻
 ```shell script
@@ -26,7 +26,7 @@ cd spynel
 python3 spynel.py
 ```
 
-Para mais informações, acesse [Whatsapp](wa.me/559885267746)!
+Para mais informações, acesse [Whatsapp](http://wa.me/559885267746)!
 
 ***Deixe sua estrelinha ;)***
 
