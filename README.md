@@ -18,6 +18,7 @@ Um pequeno painel com consultas de:
 apt-get update && apt-get upgrade -y
 apt-get install git python3 ruby
 pip install requests
+gem install lolcat
 ```
 
 <h2 align="center">INSTALAÇÃO E EXECUÇÃO 📥</h2>
