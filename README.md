@@ -2,7 +2,7 @@
 
 <h1 align="center">Spynel</h1>
 
-![](https://github.com/Spyware0/spynel/blob/main/img.png)
+![](https://github.com/Spyware0/spynel/blob/main/m.png)
 
 Um pequeno painel com consultas de:
 - [x] IP
