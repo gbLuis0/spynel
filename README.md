@@ -13,7 +13,7 @@ Um pequeno painel com consultas de:
 
 - OBS: caso execute o script pelo termux, recomendo que use o da [F-Droid](https://f-droid.org) por ser mais atualizado, evitando erros indesejáveis...
 
-Use o python3.10
+Uxecute-o em terminais linux e utilize o python3.10
 
 <h2 align="center">INÍCIO 💻</h2>
 
