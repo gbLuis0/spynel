@@ -1,0 +1,15 @@
+https://ipwhois.app/json/{ip}
+
+https://api.ipfind.com/?ip={ip}
+
+https://ipinfo.io/{ip}/json
+
+https://viacep.com.br/ws/{cep}/json
+
+https://api.postmon.com.br/v1/cep/{cep}
+
+https://www.receitaws.com.br/v1/cnpj/{cnpj}
+
+https://apicarros.com/v1/consulta/{placa}
+
+https://brasilapi.com.br/api/ddd/v1/{ddd}
