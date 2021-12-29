@@ -9,16 +9,18 @@ Um pequeno painel com consultas de:
 - [x] CEP
 - [x] PLACA
 - [x] CNPJ
+- [x] DDD
 
-- OBS: caso execute o script pelo termux, recomendo que use o da [F-Droid](https://F-Droid.org) por ser mais atualizado, evitando erros indesejáveis...
+- OBS: caso execute o script pelo termux, recomendo que use o da [F-Droid](https://f-droid.org) por ser mais atualizado, evitando erros indesejáveis...
+
+Use o python3.10
 
 <h2 align="center">INÍCIO 💻</h2>
 
 ```shell script
 apt-get update && apt-get upgrade -y
-apt-get install git python3 ruby
+apt-get install git python3
 pip install requests
-gem install lolcat
 ```
 
 <h2 align="center">INSTALAÇÃO E EXECUÇÃO 📥</h2>
@@ -26,7 +28,7 @@ gem install lolcat
 ```shell script
 git clone https://github.com/Spyware0/spynel
 cd spynel
-python3 spynel.py
+python main.py
 ```
 
 Para mais informações, acesse [Whatsapp](http://wa.me/559885267746)!
