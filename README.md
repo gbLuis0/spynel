@@ -19,7 +19,7 @@ Uxecute-o em terminais linux e utilize o python3.10
 
 ```shell script
 apt-get update && apt-get upgrade -y
-apt-get install git python3
+apt-get -y install git python3.10
 pip install requests
 ```
 
